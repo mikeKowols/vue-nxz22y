@@ -11,9 +11,11 @@
   name: 'HelloWorld',
   props: {
     msg: String,
-    greeting: String
+    greeting: String,
+    counter: Number
   }
 }
+ 
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
